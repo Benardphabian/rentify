@@ -1,4 +1,5 @@
 # rentify
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+renting project
+>>>>>>> 75c6b7880f00f7132529714339c36cd5265f5821
